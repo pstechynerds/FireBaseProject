@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "371761612550",
+    "firebase_url": "https://fir-project-dedeb.firebaseio.com",
+    "project_id": "fir-project-dedeb",
+    "storage_bucket": "fir-project-dedeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371761612550:android:c1ea20e259dcd21d",
+        "android_client_info": {
+          "package_name": "com.pstechnerd.firebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371761612550-h52lcqklmj532pr1h326njrc1g0s2c4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pstechnerd.firebaseproject",
+            "certificate_hash": "4f0a54c876f38d3fe381af648963c79d82de15a9"
+          }
+        },
+        {
+          "client_id": "371761612550-cve0hu4u8kmuil49jngi72qvnmbkirhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUnoJzR-liAzI4HYHJOFv9wXTA4BWFk84"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371761612550-cve0hu4u8kmuil49jngi72qvnmbkirhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
